@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MyWebApp",
+    "\\MyWebApp\\MyWebApp",
+    "\\MyWebApp\\MyWebApp\\AcessoDados",
+    "\\MyWebApp\\MyWebApp\\AcessoDados\\Entidades"
   ],
+  "SelectedNode": "\\MyWebApp\\MyWebApp\\AcessoDados\\Entidades\\Produto.cs",
   "PreviewInSolutionExplorer": false
 }

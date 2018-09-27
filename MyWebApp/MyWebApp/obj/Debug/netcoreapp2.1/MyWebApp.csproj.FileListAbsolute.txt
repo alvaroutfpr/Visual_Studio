@@ -21,3 +21,5 @@ C:\Users\alvar\source\repos\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.d
 C:\Users\alvar\source\repos\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.pdb
 C:\Users\alvar\source\repos\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.csproj.CopyComplete
 C:\Users\alvar\source\repos\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.csprojAssemblyReference.cache
+C:\Users\alvaro.flaviano\Source\Repos\Visual_Studio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.dll
+C:\Users\alvaro.flaviano\Source\Repos\Visual_Studio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.pdb
